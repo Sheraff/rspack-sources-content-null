@@ -1,0 +1,11 @@
+{
+  "name": "rspack-sources-content-null",
+  "private": true,
+  "scripts": {
+    "repro": "node build.js"
+  },
+  "dependencies": {
+    "@rspack/core": "2.3.0",
+    "webpack": "5.112.2"
+  }
+}
